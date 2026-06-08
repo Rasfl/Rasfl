@@ -12,7 +12,7 @@ Pharmacy student | Automation enthusiast | Tech builder
 |------|-------------|
 | Automação | n8n (workflows, webhooks, API integration, JSON parsing) |
 | Infrastructure | Docker, Coolify, Linux |
-| Frontend | HTML, CSS (basic) | JavaScript (learning) |
+| Frontend | HTML, CSS  | JavaScript (learning) |
 | Backend | HTTP requests, SQL (basic, via n8n) |
 | Tools | PostgreSQL, WhatsApp/Evolution API, Cloudflare |
 
